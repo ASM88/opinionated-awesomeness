@@ -4,12 +4,13 @@
 | :------------- | :------------- | :--- |
 | Bootique | Runnable Java Apps | http://bootique.io |  
 | Drop Wizard | REST-ful Web Services | http://www.dropwizard.io/1.0.5/docs/ |
+| Spring Boot | | http://projects.spring.io/spring-boot/ |
 ##### QA
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
 | glowroot | Application Performance Measuring | https://glowroot.org/ |
 | error prone | Compile-time Code Analysis | http://errorprone.info/ |
-| Mutability Detector | | https://github.com/MutabilityDetector/MutabilityDetector |
+| Mutability Detector |  | https://github.com/MutabilityDetector/MutabilityDetector |
 | Modernizer | Detect legacy libraries | https://github.com/andrewgaul/modernizer-maven-plugin |
 | Pi Test | Mutation Testing | http://pitest.org/ |
 | Hunt Bugs | Inofficial Successor To Find Bugs | https://github.com/amaembo/huntbugs |
@@ -29,11 +30,18 @@
 | cyclops react | Functional Reactive Platform for Java 8 |  http://cyclops-react.io/ |
 | jdeffered | Deffered/Promise Library | http://jdeferred.org/ |
 | retrofit | type-safe HTTP Client | https://square.github.io/retrofit/ |
+| okhttp | HTTP Client | https://square.github.io/okhttp/ |
+| GSON | JSON Serialization | https://github.com/google/gson |
 | log4j | Logging | https://logging.apache.org/log4j/2.x/ |
 | RxJava | Reactive Java | https://github.com/ReactiveX/RxJava |
 | AssertJ | Fluent Assertions | https://joel-costigliola.github.io/assertj/index.html |
 | Guava | | https://github.com/google/guava/wiki |
 | Streamplify | Useful Streams | http://streamplify.beryx.org/releases/latest/ |
+| Rocker | Fast Templates | https://github.com/fizzed/rocker |
+| Pebble | Templates | http://www.mitchellbosecke.com/pebble/home |
+| mbassador | Fast Event Bus | https://github.com/bennidi/mbassador |
+| Guice | Lightweight Dependency Injection | https://github.com/google/guice |
+| vaporetto | Lightweight Proxy-Based Immutables | https://github.com/poetix/vaporetto |
 ##### Fullstack/ Micro Framework
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
@@ -52,6 +60,10 @@
 | :------------- | :------------- | :--- |
 | Litho | UI Framework | http://fblitho.com/ |
 | Anbox | Android. In a box. | https://anbox.io/ |
+| Android Base App | Preconfigured Best Practice App | https://github.com/athkalia/Just-Another-Android-App |
+| Dagger | Dependency Injection | https://square.github.io/dagger/ |
+| Butterknife | | https://jakewharton.github.io/butterknife/ |
+| Lemniscate | Nice looking progress symbols | https://github.com/vlad1m1r990/Lemniscate |
 ##### Misc
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
@@ -72,6 +84,9 @@
 | :------------- | :------------- | :--- |
 | pkg | Executable node projects | https://github.com/zeit/pkg |
 | nexe | Executable node projects | https://github.com/nexe/nexe |
+| dashboard | Monitoring | https://github.com/FormidableLabs/nodejs-dashboard |
+| noble | BLE Central | https://github.com/sandeepmistry/noble |
+| bleno | BLE Peripheral | https://github.com/sandeepmistry/bleno |
 
 # ruby
 ##### Code Quality
@@ -84,6 +99,15 @@
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
 | Yoga | Layout Engine | https://facebook.github.io/yoga/ |
+##### DevOps
+| Tool | Description | URL |
+| :--- | :---------- | :-- |
+| Consul | Service Discovery | https://www.consul.io/ |
+| Vagrant | Development VM | https://www.vagrantup.com/ |
+| Ansible | Provisioning | https://docs.ansible.com/ |
+| Jenkins | Build Server | https://jenkins.io/ |
+| Nexus | Binary Repository | https://www.sonatype.com/nexus-repository-sonatype |
+
 ##### Management Tools
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
@@ -98,6 +122,10 @@
 | GRAKN.ai | Database for AI | https://grakn.ai/ |
 | xodus | transactional, schemaless, embedded | https://jetbrains.github.io/xodus/ |
 | TiDB | Distributed NewSQL, compatible with SQL | https://github.com/pingcap/tidb |
+| Beringei | In-Memory Time-Series Data | https://github.com/facebookincubator/beringei |
+| Leveldb | Fast Key Value Store | https://github.com/google/leveldb |
+| cayley | OSS Graph Database | https://github.com/cayleygraph/cayley |
+| OrientDB | Multi-Purpose DBMS | http://orientdb.com/orientdb/ |
 ##### Web
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
@@ -124,12 +152,16 @@
 | :------------- | :------------- | :--- |
 | VS Code | Lightweight IDE/Bloated Text Editor | https://code.visualstudio.com/ |
 | Git Kraken | Git GUI | https://www.gitkraken.com/features |
+| Slack | Communication/Chats/Personal Log | https://slack.com |
+| JIRA | Tickets / Coordination | https://atlassian.com/software/jira |
+| Confluence | Professional WIKI | https://atlassian.com/software/confluence |
 ##### Container (LXC)
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
 | Portainer | Docker UI | http://portainer.io/index.html |
 | Infrakit | creating and managing declarative, self-healing infrastructure | https://github.com/docker/infrakit |
 | Rancher | Container Management Platform | http://rancher.com/rancher/ |
+| Linuxkit | Minimal Linux Containers | https://github.com/linuxkit/linuxkit |
 ##### Misc
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
@@ -157,6 +189,15 @@
 | Drools | Business Rules Engine | http://www.drools.org/ |
 | Habitat | App Automation | https://www.habitat.sh/ |
 | Protocol Buffers | Byte-encoded Data | https://developers.google.com/protocol-buffers/docs/overview |
+| TOML | | https://github.com/toml-lang/toml |
+| Localstack | Local AWS | https://github.com/atlassian/localstack |
+| Httpie | Modern HTTP CLI Client | https://github.com/jakubroztocil/httpie |
+| Sinatra | Web DSL | http://www.sinatrarb.com/ |
+| Naive Chain | 200 line BlockChain Impl. | https://github.com/lhartikk/naivechain |
+| Stethoscope | Netflix Security Recommendations | https://github.com/Netflix/stethoscope |
+| Shut It | Automation Framework | https://ianmiell.github.io/shutit/ |
+| zxcvbn | Low-budget password strength estimation | https://github.com/dropbox/zxcvbn |
+| Bats | Automated Bash Testing | https://github.com/sstephenson/bats |
 # Hosting
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
@@ -168,6 +209,18 @@
 | :------------- | :------------- | :--- |
 | baskerville | | http://klepas.org/openbaskerville/ |
 | The League | |  https://www.theleagueofmoveabletype.com/ |
+| Iosevka | | https://be5invis.github.io/Iosevka/ |
+| Firacode | | https://github.com/tonsky/FiraCode |
+| Font Awesome | | https://github.com/FortAwesome/Font-Awesome |
+| Material Design Icons | | https://github.com/google/material-design-icons |
+| Ion Icons | | https://github.com/driftyco/ionicons |
+| Raleway | | https://github.com/theleagueof/raleway |
+| Ostrich Sans | | https://github.com/theleagueof/ostrich-sans |
+| Gidole | | https://github.com/larsenwork/Gidole |
+| Source Sans Pro | | https://github.com/adobe-fonts/source-sans-pro |
+| Fira | | https://github.com/mozilla/Fira |
+| Roboto | | https://github.com/google/roboto |
+| Google Fonts | | https://github.com/google/fonts |
 # Resources (News, Blogs, Awesome Lists)
 | Name | Description | URL |
 | :------------- | :------------- | :--- |
@@ -176,6 +229,15 @@
 | Github Trends | | https://github.com/trending |
 | Github Showcases | | https://github.com/showcases |
 | Learn X in Y | Really Short Tutorials | https://learnxinyminutes.com/ |
+| Public APIS | | https://github.com/toddmotto/public-apis |
+| Awesome Java | | https://github.com/akullpp/awesome-java |
+| Awesome Java 8 | | https://github.com/tedyoung/awesome-java8 |
+| Awesome Shell | | https://github.com/alebcay/awesome-shell |
+| Just Awesome | | https://github.com/emijrp/awesome-awesome |
+| Just Awesome II | | https://github.com/bayandin/awesome-awesomeness |
+| Freebies | | https://github.com/ripienaar/free-for-dev |
+| Gitignores | |  https://github.com/github/gitignore |
+| List Of Naughty Strings | | https://github.com/minimaxir/big-list-of-naughty-strings |
 | IBM Tutorials | | https://www.ibm.com/developerworks/learn/java/index.html |
 | Vogella | Tutorials | http://www.vogella.com/tutorials/ |
 | Digital Ocean | Tutorials | https://www.digitalocean.com/community/tutorials |
@@ -216,6 +278,28 @@
 | Intro To Statistical Learning | R Course | http://www-bcf.usc.edu/~gareth/ISL/ |
 | Android Lifecycle | | https://github.com/OleksandrKucherenko/android-lifecycle |
 | Markdown Cheatsheet | | https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet |
+| Realworld.io | Modern Fullstack Examples | https://github.com/gothinkster/realworld |
+| Project Based Learning | | https://github.com/tuvttran/project-based-learning |
+| Bash Guide | | https://github.com/Idnan/bash-guide |
+| Android Tips & Tricks | | https://github.com/nisrulz/android-tips-tricks |
+| Full Stack Developer Resources | | https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer |
+| Web Developer Roadmap | | https://github.com/kamranahmedse/developer-roadmap |
+| Dev Interview Prep | | https://github.com/kdn251/interviews |
+| Dev Interview Prep | | https://github.com/jwasham/coding-interview-university |
+| System Design Primer | | https://github.com/donnemartin/system-design-primer |
+| InfoSec 101 | | https://github.com/forter/security-101-for-saas-startups |
+| Awesome Safety | | https://github.com/stanislaw/awesome-safety-critical |
+| Auth Boss | | https://github.com/teesloane/Auth-Boss |
+| Full Stack Tutorial | | https://github.com/verekia/js-stack-from-scratch |
+| Design Patterns | | https://github.com/kamranahmedse/design-patterns-for-humans |
+| Awesome Falsehood | | https://github.com/kdeldycke/awesome-falsehood |
+| Frontend Handbook | | https://github.com/FrontendMasters/front-end-handbook-2017 |
+| Java Design Patterns | | http://java-design-patterns.com/ |
+| Functional Patterns For Java | | https://palatable.github.io/lambda/ |
+| You Don't Know JS | | https://github.com/getify/You-Dont-Know-JS |
+| Clean Code JS | | https://github.com/ryanmcdermott/clean-code-javascript |
+| Beautiful Docs | | https://github.com/PharkMillups/beautiful-docs |
+| Minimal Solr | | https://github.com/hsch/solr-minimal |
 # Languages
 - http://elixir-lang.org/
 - http://www.typescriptlang.org/
