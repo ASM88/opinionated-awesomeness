@@ -303,6 +303,9 @@
 | Clean Code JS | | https://github.com/ryanmcdermott/clean-code-javascript |
 | Beautiful Docs | | https://github.com/PharkMillups/beautiful-docs |
 | Minimal Solr | | https://github.com/hsch/solr-minimal |
+| Awesome hacking | | https://github.com/Hack-with-Github/Awesome-Hacking |
+| Awesome Android | | https://github.com/amitshekhariitbhu/awesome-android-complete-reference |
+| Awesome Ruby | | https://github.com/markets/awesome-ruby |
 # Languages
 - http://elixir-lang.org/
 - http://www.typescriptlang.org/
