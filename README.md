@@ -67,6 +67,7 @@
 ##### Misc
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
+| Gradle | Build Tool | https://gradle.org/ |
 | sdkman | SDK Manager for Java | http://sdkman.io |
 | Choco | Constraint Programming | http://www.choco-solver.org/ |
 | JHipster | JHipster = Yeoman generator -> Spring Boot + Angular |https://jhipster.github.io/ |
@@ -109,6 +110,7 @@
 | Ansible | Provisioning | https://docs.ansible.com/ |
 | Jenkins | Build Server | https://jenkins.io/ |
 | Nexus | Binary Repository | https://www.sonatype.com/nexus-repository-sonatype |
+| Confd | Lightweight Configuration Management | http://www.confd.io/ |
 
 ##### Management Tools
 | Tool     | Description     | URL |
@@ -128,6 +130,7 @@
 | Leveldb | Fast Key Value Store | https://github.com/google/leveldb |
 | cayley | OSS Graph Database | https://github.com/cayleygraph/cayley |
 | OrientDB | Multi-Purpose DBMS | http://orientdb.com/orientdb/ |
+| Redis | In-Memory Store / Caching | https://redis.io/ |
 ##### Web
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
@@ -160,6 +163,7 @@
 ##### Container (LXC)
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
+| Docker | Container Runtime | https://www.docker.com/ |
 | Portainer | Docker UI | http://portainer.io/index.html |
 | Infrakit | creating and managing declarative, self-healing infrastructure | https://github.com/docker/infrakit |
 | Rancher | Container Management Platform | http://rancher.com/rancher/ |
