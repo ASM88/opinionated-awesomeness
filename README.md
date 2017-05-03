@@ -160,6 +160,19 @@
 | Slack | Communication/Chats/Personal Log | https://slack.com |
 | JIRA | Tickets / Coordination | https://atlassian.com/software/jira |
 | Confluence | Professional WIKI | https://atlassian.com/software/confluence |
+| Atom | Text Editor | https://atom.io/ |
+##### Atom Plugins
+| Plugin     | Description     | URL |
+| :------------- | :------------- | :--- |
+| markdown-themeable-pdf | Build themed PDFs from Markdown | |
+| linter | Linter Base | |
+| linter-shellcheck | Bash Linter using Shellcheck | |
+| pigments | Show Colors | |
+| minimap | |
+| compare-files | |
+| file-icons | |
+| highlight-selected | |
+| pdf-view | |
 ##### Container (LXC)
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
