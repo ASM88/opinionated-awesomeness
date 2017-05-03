@@ -3,7 +3,7 @@
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
 | Bootique | Runnable Java Apps | http://bootique.io |  
-| Drop Wizard | REST-ful Web Services | http://www.dropwizard.io/1.0.5/docs/ |
+| Drop Wizard | | http://www.dropwizard.io/1.0.5/docs/ |
 | Spring Boot | | http://projects.spring.io/spring-boot/ |
 ##### QA
 | Tool     | Description     | URL |
@@ -49,7 +49,7 @@
 | jooby | Micro | http://jooby.org/ |
 | rapidoid | Micro | http://www.rapidoid.org/ |
 | Spark | Micro | http://sparkjava.com/ |
-| Jodd | Micro; useful | http://jodd.org/ |
+| Jodd | Micro | http://jodd.org/ |
 | Kumuluz | Microservices with JEE | http://ee.kumuluz.com/ |
 ##### Performance
 | Tool     | Description     | URL |
