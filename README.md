@@ -22,6 +22,10 @@
 | Fixture Factory | Generate fake objects from templates | https://github.com/six2six/fixture-factory |
 | Fluentlenium | Fluent Style Selenium | http://fluentlenium.org/ |
 | Truth | Fluent, readable Assertions & Failures | https://google.github.io/truth/ |
+| Selenium | | http://www.seleniumhq.org/ |
+| JUnit | Unit Tests | http://junit.org/junit4/ |
+| Spock | | http://spockframework.org/ |
+| JMeter | | https://jmeter.apache.org/ |
 ##### Frameworks
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
