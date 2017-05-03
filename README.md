@@ -74,9 +74,11 @@
 | Dozer | Bean Mapper | https://github.com/DozerMapper/dozer |
 | Model Mapper | Object Mapper | http://modelmapper.org/ |
 | Simple Flat Mapper | CSV Mapper | http://simpleflatmapper.org/0101-getting-started-csv.html |
+| SuperCSV | CSV | https://super-csv.github.io/super-csv/index.html |
 | Netflix Hollow | Disseminate in mem Data | http://hollow.how/ |
 | Test Containers | Throw away Docker Container | http://testcontainers.viewdocs.io/testcontainers-java/ |
 | Vert.X | Toolkit for reactive apps | http://vertx.io/ |
+| Jackrabbit | Content Repository | https://jackrabbit.apache.org/jcr/index.html |
 
 # Node.js
 ##### Platform
@@ -198,6 +200,7 @@
 | Shut It | Automation Framework | https://ianmiell.github.io/shutit/ |
 | zxcvbn | Low-budget password strength estimation | https://github.com/dropbox/zxcvbn |
 | Bats | Automated Bash Testing | https://github.com/sstephenson/bats |
+| RabbitMQ | Message Queue | https://www.rabbitmq.com/ |
 # Hosting
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
