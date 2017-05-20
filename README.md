@@ -68,6 +68,7 @@
 | Dagger | Dependency Injection | https://square.github.io/dagger/ |
 | Butterknife | | https://jakewharton.github.io/butterknife/ |
 | Lemniscate | Nice looking progress symbols | https://github.com/vlad1m1r990/Lemniscate |
+| Tray | Shared Preferences | https://github.com/grandcentrix/tray |
 ##### Misc
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
@@ -222,6 +223,9 @@
 | zxcvbn | Low-budget password strength estimation | https://github.com/dropbox/zxcvbn |
 | Bats | Automated Bash Testing | https://github.com/sstephenson/bats |
 | RabbitMQ | Message Queue | https://www.rabbitmq.com/ |
+| Protobuf | Binary Serialization | https://developers.google.com/protocol-buffers/ |
+| Capn Proto | Protobuf Successor |  https://capnproto.org/ |
+| Message Pack | Serialization | http://msgpack.org/ |
 # Hosting
 | Tool     | Description     | URL |
 | :------------- | :------------- | :--- |
